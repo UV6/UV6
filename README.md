@@ -2,8 +2,6 @@
 
 ### A passionate Typescript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UV6&label=Profile views&color=0e75b6&style=flat" alt="UV6" /> </p>
-
 - 🔭 I'm currently working on **Codia**
 
 - 🌱 I'm currently learning **Transformer, GPT/LLaMA, LangGraph**
