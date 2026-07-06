@@ -2,7 +2,7 @@
 
 ### A passionate Typescript developer
 
-- 🔭 I'm currently working on **Codia**
+- 🔭 I'm currently working on **Codia,RAG,AI Coding**
 
 - 🌱 I'm currently learning **Transformer, GPT/LLaMA, LangGraph**
 
